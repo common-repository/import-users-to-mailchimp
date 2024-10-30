@@ -1,0 +1,32 @@
+/* CSS Document */
+
+ul.mailchimpform
+{
+width:250px;
+margin:0;
+}
+ul.mailchimpform li
+{
+list-style:none;
+display:block;
+margin-top:10px;
+
+}
+ul.mailchimpform li label{ display:block;}
+#mailchimpmessage img
+{
+text-align:left;
+padding-left:50px;
+}
+#mailchimpmessage ul.mailchimp-error
+{
+width:250px;
+margin:0;
+
+}
+#mailchimpmessage ul.mailchimp-error li
+{
+list-style:armenian !important;
+display:block;
+color:#FF0000;
+}
